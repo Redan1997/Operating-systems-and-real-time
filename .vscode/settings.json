@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "CREATE.C": "cpp",
+        "INITIALI.C": "cpp",
+        "INSERT.C": "cpp",
+        "RESCHED.C": "cpp",
+        "READY.C": "cpp",
+        "KILL.C": "cpp",
+        "SUSPEND.C": "cpp"
+    }
+}

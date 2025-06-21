@@ -1,0 +1,1 @@
+tcc -I... game5.c .../xinu.lib
